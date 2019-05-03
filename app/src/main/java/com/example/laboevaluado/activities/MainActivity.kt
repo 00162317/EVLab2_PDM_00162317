@@ -47,3 +47,4 @@ class MainActivity : AppCompatActivity(),Fragment_first.OnFragmentInteractionLis
     }
 
 }
+
